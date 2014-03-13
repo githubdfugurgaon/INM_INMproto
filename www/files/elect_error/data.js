@@ -1,0 +1,254 @@
+﻿$axure.loadCurrentPage({
+  "url":"elect_error.html",
+  "generationDate":new Date(1394701182165.35),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"e289298129f641e5b9ea77bcd508ece6",
+    "type":"Axure:Page",
+    "name":"Elect_Error",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"623afe84dc1f414da6104d10cfba9759",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1024,
+              "height":768}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b706e728c66c418ab00c0fcfd6eb66b0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1024,
+                  "height":768}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/elect_error/u0.png"}},
+{
+          "id":"61125e1ff7ec428a9c7fd4bec9b20c83",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":454,
+              "y":447},
+            "size":{
+              "width":116,
+              "height":44}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Exxon_LandingPage in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"exxon_landingpage.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"bc3d79e6c8b74443850acea4d4c2db1b",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":725,
+              "y":0},
+            "size":{
+              "width":299,
+              "height":768}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Exxon_LandingPage in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"exxon_landingpage.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"15e11f12f1784956a43ef663e203a8d8",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":299,
+              "height":768}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Exxon_LandingPage in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"exxon_landingpage.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"f21936f0db3345bebc82a0ebce276ae3",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":299,
+              "y":-17},
+            "size":{
+              "width":426,
+              "height":257}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Exxon_LandingPage in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"exxon_landingpage.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"8cb1bc9069f44c538a1dcb8f103fb2be",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":299,
+              "y":525},
+            "size":{
+              "width":426,
+              "height":243}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Exxon_LandingPage in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"exxon_landingpage.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"7d99fc10e94948598c4e514f55853dca",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":690,
+              "y":245},
+            "size":{
+              "width":30,
+              "height":35}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Exxon_LandingPage in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"exxon_landingpage.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "623afe84dc1f414da6104d10cfba9759":{
+      "scriptId":"u0"},
+    "b706e728c66c418ab00c0fcfd6eb66b0":{
+      "scriptId":"u1"},
+    "61125e1ff7ec428a9c7fd4bec9b20c83":{
+      "scriptId":"u2"},
+    "bc3d79e6c8b74443850acea4d4c2db1b":{
+      "scriptId":"u3"},
+    "15e11f12f1784956a43ef663e203a8d8":{
+      "scriptId":"u4"},
+    "f21936f0db3345bebc82a0ebce276ae3":{
+      "scriptId":"u5"},
+    "8cb1bc9069f44c538a1dcb8f103fb2be":{
+      "scriptId":"u6"},
+    "7d99fc10e94948598c4e514f55853dca":{
+      "scriptId":"u7"}}});

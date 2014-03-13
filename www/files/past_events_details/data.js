@@ -1,0 +1,129 @@
+﻿$axure.loadCurrentPage({
+  "url":"past_events_details.html",
+  "generationDate":new Date(1394701183260.74),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"50280845f6694157a49cd6eba58fa093",
+    "type":"Axure:Page",
+    "name":"Past_Events_Details",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"3549dcc99d324fc6a2d6dce203c4299d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1024,
+              "height":768}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b353d96263254d06bf4c383b798bd814",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1024,
+                  "height":768}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/past_events_details/u0.png"}},
+{
+          "id":"ca35e174304e49198832a8d9b0c36466",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":14,
+              "y":22},
+            "size":{
+              "width":68,
+              "height":41}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Menu in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"menu.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"f93a10dd739f48dd8e9170e2402bfccf",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":496,
+              "y":190},
+            "size":{
+              "width":150,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Past_Events_instructed Status in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"past_events_instructed_status.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "3549dcc99d324fc6a2d6dce203c4299d":{
+      "scriptId":"u0"},
+    "b353d96263254d06bf4c383b798bd814":{
+      "scriptId":"u1"},
+    "ca35e174304e49198832a8d9b0c36466":{
+      "scriptId":"u2"},
+    "f93a10dd739f48dd8e9170e2402bfccf":{
+      "scriptId":"u3"}}});

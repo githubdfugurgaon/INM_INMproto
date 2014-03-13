@@ -1,0 +1,257 @@
+﻿$axure.loadCurrentPage({
+  "url":"forgot_password.html",
+  "generationDate":new Date(1394701174718.19),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"8ad3fb33581a4dc9acae2c06c91a086f",
+    "type":"Axure:Page",
+    "name":"Forgot_Password",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"ffcc07d47c3e41b5a28ada0fd4f733e5",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1024,
+              "height":766}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"28cdc9b6b4644377a3f62b1a025cc77d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1024,
+                  "height":766}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/forgot_password/u0.png"}},
+{
+          "id":"6cfbc9bb6ecf4d9bb1d53470be825c52",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":596,
+              "y":412},
+            "size":{
+              "width":97,
+              "height":48}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Password_Reset in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"password_reset.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"22dd3345d0c44d018b1c0266af760c1d",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":1},
+            "size":{
+              "width":295,
+              "height":768}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open index in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"49e6c8e154c44a3abcab2a9d0ab9ee19",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":725,
+              "y":1},
+            "size":{
+              "width":299,
+              "height":768}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open index in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"618e667acd23405d9e2327df2158b5e4",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":295,
+              "y":1},
+            "size":{
+              "width":430,
+              "height":269}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open index in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"adb05fd60caf40d0b6c0cd04c3cc54c6",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":295,
+              "y":500},
+            "size":{
+              "width":430,
+              "height":269}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open index in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"c44af624d5df4507b297ae68c2417b52",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":690,
+              "y":279},
+            "size":{
+              "width":30,
+              "height":35}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open index in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "ffcc07d47c3e41b5a28ada0fd4f733e5":{
+      "scriptId":"u0"},
+    "28cdc9b6b4644377a3f62b1a025cc77d":{
+      "scriptId":"u1"},
+    "6cfbc9bb6ecf4d9bb1d53470be825c52":{
+      "scriptId":"u2"},
+    "22dd3345d0c44d018b1c0266af760c1d":{
+      "scriptId":"u3"},
+    "49e6c8e154c44a3abcab2a9d0ab9ee19":{
+      "scriptId":"u4"},
+    "618e667acd23405d9e2327df2158b5e4":{
+      "scriptId":"u5"},
+    "adb05fd60caf40d0b6c0cd04c3cc54c6":{
+      "scriptId":"u6"},
+    "c44af624d5df4507b297ae68c2417b52":{
+      "scriptId":"u7"}}});
